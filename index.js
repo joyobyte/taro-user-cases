@@ -396,6 +396,10 @@ const userCases = {
     {
       name: "麦德龙到家",
       url: "https://user-images.githubusercontent.com/9426456/60314192-5a421300-9994-11e9-9448-a0806a975263.jpg"
+    },
+    {
+      name: "幸运抽多多",
+      url: "https://luckydraw-1252295833.cos.ap-chengdu.myqcloud.com/pic/gh_e40e171df090_258.jpg"
     }
   ],
   H5: [
